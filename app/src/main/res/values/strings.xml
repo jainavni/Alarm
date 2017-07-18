@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_detail">detail</string>
+    <string name="no_email_client">There are no email clients installed.</string>
+    <string name="Take_Photo">Take Photo</string>
+    <string name="Choose_from_Gallery">Choose from Gallery</string>
+    <string name="Add_Photo">Add Photo</string>
+    <string name="problem_setting_image">Wooahh!! Looks like there was a problem setting this image.</string>
+    <string name="image_capture_fail">Image capture failed</string>
+    <string name="problem_saving_photo">There was a problem saving photo....</string>
+<string name="cannot_create_file">Cannot create file</string>
+    <string name="SetDate">Set Date</string>
+    <string name="SetTime">Set Time</string>
+    <string name="TitleHint">Enter Task here</string>
+
+    <string name="sort_by">Sort By</string>
+    <string name="sort_by_newest">Sort by Newest</string>
+    <string name="Sort_by_Reminder">Sort by Upcoming</string>
+    <string name="sort_by_title">Sort by Title</string>
+    <string name="sort_by_edited">Sort by Edited</string>
+</resources>
